@@ -14,9 +14,7 @@ Jupyter notebook with code to solve MIS problem and generate distributions for e
 ### Current
 - 3 parameters varied: Omega, Delta, T_rise
 - Distributions generated for 500 shots
-- ~600 min runtime
+- ~260 min runtime
 
 ### To do
-- Combine mean and std functions to speed up
 - Parallelize?
-- std
