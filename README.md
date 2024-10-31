@@ -19,3 +19,4 @@ Jupyter notebook with code to solve MIS problem and generate distributions for e
 ### To do
 - Combine mean and std functions to speed up
 - Parallelize?
+- std
