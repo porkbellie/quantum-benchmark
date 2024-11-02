@@ -1,8 +1,13 @@
 # quantum-benchmark
 Benchmarking Quantum Optimization with Rydberg Atom Systems
 
-## MIS3
-Jupyter notebook with code to solve MIS problem and generate distributions for each parameter of interest on Amazon Braket SDK
+Jupyter notebooks with code to solve MIS problem and generate distributions for each parameter of interest on Amazon Braket SDK
+
+### MIS_OD
+Measures parameters omega and delta
+
+### MIS_T
+Measures parameters T_rise, T_max, T_flat
 
 ### Progress
 - Produce random connected drop out lattice graphs
@@ -18,4 +23,3 @@ Jupyter notebook with code to solve MIS problem and generate distributions for e
 
 ### To do
 - Parallelize?
-- Vary T_flat, T_max?
