@@ -18,3 +18,4 @@ Jupyter notebook with code to solve MIS problem and generate distributions for e
 
 ### To do
 - Parallelize?
+- Vary T_flat, T_max?
